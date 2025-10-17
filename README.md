@@ -6,7 +6,7 @@ I'm a junior data analyst with a passion for uncovering insights from data to he
 ## Fun Facts
 - I love exploring new tech and tools in data analytics.  
 - I'm a visual learner and love turning numbers into stories through charts 📊  and dashboards.  
-- Outside of coding, I enjoy basketball 🏀 , creating YouTube content, and diving into entrepreneurial ventures.  
+- Outside of coding, I enjoy basketball 🏀, creating YouTube content, and diving into entrepreneurial ventures.  
 
 ## What I'm Looking For
 I'm interested in participating in outsourcing and freelance projects where I can apply my analytical skills to solve real business problems.  
